@@ -1,0 +1,50 @@
+Mentor
+
+
+Demander le métier du Mentor => ok
+
+Demander ses languages de programmation ou les plateformes de développement => ok
+
+Demander le nombre d'années d'expérience dans la Tech => ok
+
+demander le nombre d'années d'expérience dans le mentoring => ok
+
+Etes vous, vous même, mentoré? => ok 
+
+
+
+Si oui, depuis combien de temps? => ok 
+
+Pensez vous que votre mentor serait intéressé par l'application? (vous pouvez répondre plus tard)
+
+
+
+
+Demander si le mentor à déjà des mentorés a qui il/elle "mentore" actuellement
+
+Si oui, fréquence des sessions?
+
+Si non quelle serait votre fréquence idéal?
+
+Quelles problématiques avez vous déjà rencontré? (avec des mots en hastag)
+ex : #développement ; #backend; #juridique; #UX; #design; #responsivedesign etc...
+
+
+IDEE : ACCORD DE MENTORAT? de manière informelle ? ou alors avec une feuille d'objectifs?
+
+Les rendez vous seront fixés à l'aide de l'application (ou la page web) => notifications portable et par mail
+
+compatibles apple, outlook et gmail [et leur calendrier respectifs] -> (pour le plus grand nombre, soit 82% des utilisateurs dans le monde :
+source : https://www.leptidigital.fr/webmarketing/parts-de-marche-messageries-boites-mail-11774/#:~:text=Bas%C3%A9s%20sur%20l'analyse%20de,plus%20proche%20des%20grands%20acteurs%2C
+
+Prendre des notes en cours de mentorat? ou enregistrer des bouts de vidéo? (demander l'accord au deux parties => sinon fixer des objectifs en #hashtag) pour au final gérer un "hashwall" avec toutes les problématiques possibles pour aider les mentoré à s'y retrouver!
+
+Rappel si pas de session de mentorat depuis longtemps
+
+Faire confirmer les objectifs par le mentor et le mentoré
+
+
+
+
+
+
