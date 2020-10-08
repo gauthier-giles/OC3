@@ -5,12 +5,12 @@ Créer une application (sans la coder) sur le thème du mentorat
 
 livrables : Un zip avec votre documentation de spécifications terminée, regroupant les éléments suivants : 
 
-un modèle du domaine métier de l'application de mentorat => ok créer!
+un modèle du domaine métier de l'application de mentorat => ok créer! ( a voir)
 
 une nomenclature du domaine métier pouvant être partagée avec l'équipe ??? à voir pas tout compris
 
-une liste des fonctionnalités (basées sur les objectifs de l’application) et leurs cas d'utilisation (user stories) et critères d'acceptation correspondants => en cours
+une liste des fonctionnalités (basées sur les objectifs de l’application) et leurs cas d'utilisation (user stories) et critères d'acceptation correspondants => en cours ( a voir)
 
-les écrans wireframes (un par fonctionnalité) => en cours
+les écrans wireframes (un par fonctionnalité) => en cours (a voir)
 
-une justification du choix de langage de programmation => en cours
+une justification du choix de langage de programmation => en cours (comment le justifier)
