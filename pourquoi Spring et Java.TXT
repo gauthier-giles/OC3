@@ -1,0 +1,29 @@
+Pourquoi SPRING? :
+
+Spring utilise le système "dependency injection" qui permet plusieurs instances du même objet 
+(ici mentor et mentoré utiliseront la même instance identité par exemple)
+
+Java a besoin de se connecter à une API gérant les bases de données 
+(nativement il utilise JDBC qui ne semble pas être des plus performants seul) 
+alors que Spring utilise non seulement JDBC, OXM, ORM, et JMS et améliore les requêtes (queries) 
+et la connectivité grâce à ses API natives.
+
+
+Spring intègre un web framework, MVC, qui crée des applications web plus facilement et 
+couvre tous les aspects liés aux applications Web, comme la connexion, la gestion des requêtes HTTP,
+la création du service Web REST, etc.
+
+Spring utilise la "Programmation orientée aspect (AOP)" . Donc il s'occupe d'une tâche commune
+qui est partagée dans plusieurs objets, comme la journalisation, la gestion des transactions, la sécurité, etc.
+
+Enfin Spring contient des API pour créer des applications mobiles en général et un module est même dédié à Android particulièrement
+(Au deuxième trimestre 2020, Android possédait 75,1% des parts de marché des OS en France, 
+suivi par iOS, avec 24,7%, selon des données collectées par Kantar World Panel.)
+
+Pourquoi Java? : 
+- portabilité excellente
+- language orienté objet
+- facilité de maintenabilité
+- constante évolution
+- gestion du multithreading
+- gestion de la sécurité
